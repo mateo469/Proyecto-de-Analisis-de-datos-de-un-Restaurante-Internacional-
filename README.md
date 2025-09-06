@@ -49,4 +49,5 @@ Visualizar la distribución de precios, costos y márgenes para entender la estr
 
 ### 📷Imagen de visualizacion
 
-<img src="C:\Users\monti.UNITY12\Downloads\img.png" alt="Mi gráfico" width="400"/>
+![Grafico de visualizacion](imagen/img.png)
+
