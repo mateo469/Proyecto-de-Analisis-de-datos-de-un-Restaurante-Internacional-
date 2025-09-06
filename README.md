@@ -46,3 +46,7 @@ Visualizar la distribución de precios, costos y márgenes para entender la estr
 ¿Los clientes nuevos consumen menos que los regulares? Clientes que vendieron cervezas
 
 ¿Existe relación entre el precio del ticket y el porcentaje de propina?
+
+### 📷Imagen de visualizacion
+
+<img src="C:\Users\monti.UNITY12\Downloads\img.png" alt="Mi gráfico" width="400"/>
