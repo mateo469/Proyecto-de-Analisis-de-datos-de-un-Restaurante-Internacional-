@@ -48,6 +48,5 @@ Visualizar la distribución de precios, costos y márgenes para entender la estr
 ¿Existe relación entre el precio del ticket y el porcentaje de propina?
 
 ### 📷Imagen de visualizacion
-
-![Grafico de visualizacion](imagen/img.png)
+![Grafico de visualizacion](imagen\img.png)
 
